@@ -70,9 +70,9 @@
             "policy": "active"
         },
         "KHALEDRG-257B-DA03-E065-C755": {
-            "policy": "active",
+            "policy": "nw",
             "user": "KHALEDRG\\khale",
-            "updatedAt": "2026-10-18T23:58:25.380Z"
+            "updatedAt": "2026-10-19T00:00:21.032Z"
         },
         "KHALEDRG-55A02D92": {
             "policy": "nw",
@@ -82,7 +82,7 @@
         "DESKTOP-NGFA0SA-C896739E": {
             "policy": "nw",
             "user": "DESKTOP-NGFA0SA\\KhaledCCccc",
-            "updatedAt": "2026-10-18T23:58:25.380Z"
+            "updatedAt": "2026-10-19T00:00:21.032Z"
         }
     }
 }
