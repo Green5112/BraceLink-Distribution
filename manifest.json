@@ -72,7 +72,7 @@
         "KHALEDRG-257B-DA03-E065-C755": {
             "policy": "nw",
             "user": "KHALEDRG\\khale",
-            "updatedAt": "2026-10-20T07:20:42.820Z"
+            "updatedAt": "2026-10-20T07:48:30.580Z"
         },
         "KHALEDRG-55A02D92": {
             "policy": "nw",
@@ -82,12 +82,12 @@
         "DESKTOP-NGFA0SA-C896739E": {
             "policy": "nw",
             "user": "DESKTOP-NGFA0SA\\KhaledCCccc",
-            "updatedAt": "2026-10-20T07:20:42.820Z"
+            "updatedAt": "2026-10-20T07:48:30.580Z"
         },
         "JOLT036-4DBE-FF04-AD38-F532": {
             "policy": "active",
             "user": "TCS\\khamdan",
-            "updatedAt": "2026-10-20T07:20:42.820Z"
+            "updatedAt": "2026-10-20T07:48:30.580Z"
         }
     }
 }
