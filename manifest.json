@@ -1,118 +1,123 @@
-﻿{
-    "schema_version":  1,
-    "latest_version":  "2.2.6",
-    "global_auto_update":  true,
-    "download_base_url":  "https://github.com/Green5112/BraceLink-Distribution/releases/download/v2.2.6/",
-    "builds":  {
-                   "2019":  {
-                                "working_file":  "BraceLink_R19.dll",
-                                "working_sha256":  "8fa848f30eb00009675f35cc83f36c2f4eee8da11c3a311bcedb328d7e8c103d",
-                                "nw_file":  "BraceLink_R19_NW.dll",
-                                "nw_sha256":  "08449e3b589958116db21d6984855a89040c437721a726a910b6ce3f12ae7227"
-                            },
-                   "2020":  {
-                                "working_file":  "BraceLink_R20.dll",
-                                "working_sha256":  "04bfd631602f780db714fe13b628faf8600eb66e4c84212125342a694e0a9b1c",
-                                "nw_file":  "BraceLink_R20_NW.dll",
-                                "nw_sha256":  "bbacbed74026a3941c13aa04ffd907940547b87392728a43cc2b6ff969ebdd23"
-                            },
-                   "2021":  {
-                                "working_file":  "BraceLink_R21.dll",
-                                "working_sha256":  "9a0d6e5b13cc0caa3850955d2ea1c3a9f414191823c590d140a15719afd24fc0",
-                                "nw_file":  "BraceLink_R21_NW.dll",
-                                "nw_sha256":  "cdd8b1dc9695e1f4717d0df39d357526bfe47be575ec43786a8740afe62e01ff"
-                            },
-                   "2022":  {
-                                "working_file":  "BraceLink_R22.dll",
-                                "working_sha256":  "9793dd0242cc43912f17524cbb527340ad978988eadac487533a7c9a14be372f",
-                                "nw_file":  "BraceLink_R22_NW.dll",
-                                "nw_sha256":  "1c47f30e02ea6f7aa52f37ae544e4784650fd317e265bc6e854af961d00386f1"
-                            },
-                   "2023":  {
-                                "working_file":  "BraceLink_R23.dll",
-                                "working_sha256":  "f9175bebc5c8df568d861678f16f7f42792c6c91f4c5cc8b87bbc9ec3113431d",
-                                "nw_file":  "BraceLink_R23_NW.dll",
-                                "nw_sha256":  "587da1bfb52a0e2f9fbe0956ff23d59874523288f9092ff78a71271115c906f3"
-                            },
-                   "2024":  {
-                                "working_file":  "BraceLink_R24.dll",
-                                "working_sha256":  "7ae87fd65a52530eaaf0d27db556ef26c13ca4a0ebe54dff47d3cfa33a922b7d",
-                                "nw_file":  "BraceLink_R24_NW.dll",
-                                "nw_sha256":  "96847972d73424163cf7e51e479d314f11fc60ae60eeadc1bb5ce8874756ac7b"
-                            },
-                   "2025":  {
-                                "working_file":  "BraceLink_R25.dll",
-                                "working_sha256":  "ff11678b705d2abb092881b4629dcce342f23a607c20d38c6a3d08af54f4b94f",
-                                "nw_file":  "BraceLink_R25_NW.dll",
-                                "nw_sha256":  "f58b2fb2248bcb6821b80ad94bff46751c5170e4129099696505797ae532dc83"
-                            },
-                   "2026":  {
-                                "working_file":  "BraceLink_R26.dll",
-                                "working_sha256":  "85187284862109ca777e945909475db50df58aa90cdb533a367b37919e2bb9e9",
-                                "nw_file":  "BraceLink_R26_NW.dll",
-                                "nw_sha256":  "7eb6ea2166798ff3e21ef8923bdaa9b0653efcd98813f2e957e66862c4080cc5"
-                            },
-                   "2027":  {
-                                "working_file":  "BraceLink_R27.dll",
-                                "working_sha256":  "78c7bb5cdf7ff398a6ddaea0eb27a531f8a0cc42542f6ad9762c9321c6958806",
-                                "nw_file":  "BraceLink_R27_NW.dll",
-                                "nw_sha256":  "410f8ff4ea13beec1b254c680f7da7b9162c16814b9693480ab486b6ea4023a1"
-                            },
-                   "2028":  {
-                                "working_file":  "BraceLink_R28.dll",
-                                "working_sha256":  "491e39ccb2ecbe4a0e5d93385f6f0af1b9a0238db3e5ee79da8b9beb0776cf6a",
-                                "nw_file":  "BraceLink_R28_NW.dll",
-                                "nw_sha256":  "0e39f05928240868bb9310456502aa8f873617127b4bb2b708e8c84e1c2937ad"
-                            }
-               },
-    "clients":  {
-                    "DEFAULT":  {
-                                    "policy":  "active"
-                                },
-                    "KHALEDRG-257B-DA03-E065-C755":  {
-                                                         "policy":  "nw",
-                                                         "user":  "KHALEDRG\\khale",
-                                                         "updatedAt":  "2026-10-21T12:18:38.155Z"
-                                                     },
-                    "KHALEDRG-55A02D92":  {
-                                              "policy":  "nw",
-                                              "user":  "KHALEDRG\\khale",
-                                              "updatedAt":  "2026-10-18T23:07:59.051Z"
-                                          },
-                    "DESKTOP-NGFA0SA-C896739E":  {
-                                                     "policy":  "nw",
-                                                     "user":  "DESKTOP-NGFA0SA\\KhaledCCccc",
-                                                     "updatedAt":  "2026-10-21T12:18:38.155Z"
-                                                 },
-                    "JOLT036-4DBE-FF04-AD38-F532":  {
-                                                        "policy":  "active",
-                                                        "user":  "TCS\\khamdan",
-                                                        "updatedAt":  "2026-10-21T12:18:38.155Z"
-                                                    },
-                    "JOLT029-F541-9613-50AE-1819":  {
-                                                        "policy":  "active",
-                                                        "user":  "TCS\\sloiy",
-                                                        "updatedAt":  "2026-10-21T12:18:38.155Z"
-                                                    },
-                    "JOWS003-2C3F-F5D9-14E4-B325":  {
-                                                        "policy":  "active",
-                                                        "user":  "TCS\\fherbawi",
-                                                        "updatedAt":  "2026-10-21T12:18:38.155Z"
-                                                    },
-                    "CHWS032-D923-4DBB-CC63-55DE":  {
-                                                        "policy":  "active",
-                                                        "user":  "TCS\\memad",
-                                                        "updatedAt":  "2026-10-21T12:18:38.155Z"
-                                                    },
-                    "JOWS002-8FEF-F5D9-095D-AD89":  {
-                                                        "policy":  "active",
-                                                        "user":  "TCS\\shihi",
-                                                        "updatedAt":  "2026-10-21T12:18:38.155Z"
-                                                    },
-                    "LMLT111-0202-24F7-A61E-9884":  {
-                                                        "policy":  "active",
-                                                        "user":  "TCS\\aallan",
-                                                        "updatedAt":  "2026-10-21T12:18:38.155Z"
-                                                    }
-                }
+{
+    "schema_version": 1,
+    "latest_version": "2.2.6",
+    "global_auto_update": true,
+    "download_base_url": "https://github.com/Green5112/BraceLink-Distribution/releases/download/v2.2.6/",
+    "builds": {
+        "2019": {
+            "working_file": "BraceLink_R19.dll",
+            "working_sha256": "8fa848f30eb00009675f35cc83f36c2f4eee8da11c3a311bcedb328d7e8c103d",
+            "nw_file": "BraceLink_R19_NW.dll",
+            "nw_sha256": "08449e3b589958116db21d6984855a89040c437721a726a910b6ce3f12ae7227"
+        },
+        "2020": {
+            "working_file": "BraceLink_R20.dll",
+            "working_sha256": "04bfd631602f780db714fe13b628faf8600eb66e4c84212125342a694e0a9b1c",
+            "nw_file": "BraceLink_R20_NW.dll",
+            "nw_sha256": "bbacbed74026a3941c13aa04ffd907940547b87392728a43cc2b6ff969ebdd23"
+        },
+        "2021": {
+            "working_file": "BraceLink_R21.dll",
+            "working_sha256": "9a0d6e5b13cc0caa3850955d2ea1c3a9f414191823c590d140a15719afd24fc0",
+            "nw_file": "BraceLink_R21_NW.dll",
+            "nw_sha256": "cdd8b1dc9695e1f4717d0df39d357526bfe47be575ec43786a8740afe62e01ff"
+        },
+        "2022": {
+            "working_file": "BraceLink_R22.dll",
+            "working_sha256": "9793dd0242cc43912f17524cbb527340ad978988eadac487533a7c9a14be372f",
+            "nw_file": "BraceLink_R22_NW.dll",
+            "nw_sha256": "1c47f30e02ea6f7aa52f37ae544e4784650fd317e265bc6e854af961d00386f1"
+        },
+        "2023": {
+            "working_file": "BraceLink_R23.dll",
+            "working_sha256": "f9175bebc5c8df568d861678f16f7f42792c6c91f4c5cc8b87bbc9ec3113431d",
+            "nw_file": "BraceLink_R23_NW.dll",
+            "nw_sha256": "587da1bfb52a0e2f9fbe0956ff23d59874523288f9092ff78a71271115c906f3"
+        },
+        "2024": {
+            "working_file": "BraceLink_R24.dll",
+            "working_sha256": "7ae87fd65a52530eaaf0d27db556ef26c13ca4a0ebe54dff47d3cfa33a922b7d",
+            "nw_file": "BraceLink_R24_NW.dll",
+            "nw_sha256": "96847972d73424163cf7e51e479d314f11fc60ae60eeadc1bb5ce8874756ac7b"
+        },
+        "2025": {
+            "working_file": "BraceLink_R25.dll",
+            "working_sha256": "ff11678b705d2abb092881b4629dcce342f23a607c20d38c6a3d08af54f4b94f",
+            "nw_file": "BraceLink_R25_NW.dll",
+            "nw_sha256": "f58b2fb2248bcb6821b80ad94bff46751c5170e4129099696505797ae532dc83"
+        },
+        "2026": {
+            "working_file": "BraceLink_R26.dll",
+            "working_sha256": "85187284862109ca777e945909475db50df58aa90cdb533a367b37919e2bb9e9",
+            "nw_file": "BraceLink_R26_NW.dll",
+            "nw_sha256": "7eb6ea2166798ff3e21ef8923bdaa9b0653efcd98813f2e957e66862c4080cc5"
+        },
+        "2027": {
+            "working_file": "BraceLink_R27.dll",
+            "working_sha256": "78c7bb5cdf7ff398a6ddaea0eb27a531f8a0cc42542f6ad9762c9321c6958806",
+            "nw_file": "BraceLink_R27_NW.dll",
+            "nw_sha256": "410f8ff4ea13beec1b254c680f7da7b9162c16814b9693480ab486b6ea4023a1"
+        },
+        "2028": {
+            "working_file": "BraceLink_R28.dll",
+            "working_sha256": "491e39ccb2ecbe4a0e5d93385f6f0af1b9a0238db3e5ee79da8b9beb0776cf6a",
+            "nw_file": "BraceLink_R28_NW.dll",
+            "nw_sha256": "0e39f05928240868bb9310456502aa8f873617127b4bb2b708e8c84e1c2937ad"
+        }
+    },
+    "clients": {
+        "DEFAULT": {
+            "policy": "active"
+        },
+        "KHALEDRG-257B-DA03-E065-C755": {
+            "policy": "nw",
+            "user": "KHALEDRG\\khale",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        },
+        "KHALEDRG-55A02D92": {
+            "policy": "nw",
+            "user": "KHALEDRG\\khale",
+            "updatedAt": "2026-10-18T23:07:59.051Z"
+        },
+        "DESKTOP-NGFA0SA-C896739E": {
+            "policy": "nw",
+            "user": "DESKTOP-NGFA0SA\\KhaledCCccc",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        },
+        "JOLT036-4DBE-FF04-AD38-F532": {
+            "policy": "active",
+            "user": "TCS\\khamdan",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        },
+        "JOLT029-F541-9613-50AE-1819": {
+            "policy": "active",
+            "user": "TCS\\sloiy",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        },
+        "JOWS003-2C3F-F5D9-14E4-B325": {
+            "policy": "active",
+            "user": "TCS\\fherbawi",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        },
+        "CHWS032-D923-4DBB-CC63-55DE": {
+            "policy": "active",
+            "user": "TCS\\memad",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        },
+        "JOWS002-8FEF-F5D9-095D-AD89": {
+            "policy": "active",
+            "user": "TCS\\shihi",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        },
+        "LMLT111-0202-24F7-A61E-9884": {
+            "policy": "active",
+            "user": "TCS\\aallan",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        },
+        "JOLT011-F599-957B-8F0A-AC3C": {
+            "policy": "active",
+            "user": "TCS\\oawawdeh",
+            "updatedAt": "2026-10-25T08:17:02.331Z"
+        }
+    }
 }
